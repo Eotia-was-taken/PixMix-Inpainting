@@ -1,0 +1,8 @@
+*.ply
+data
+testData
+.DS_Store
+.idea
+build
+cmake-*
+
